@@ -1,0 +1,20 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#16213e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f3460;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d2ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3a7bd5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)" />
+  <rect x="0" y="0" width="1200" height="6" fill="url(#accent)" />
+  <text x="60" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="bold" fill="#ffffff">Adwaith Dinesh</text>
+  <text x="60" y="165" font-family="Consolas, monospace" font-size="22" fill="#00d2ff">Cloud Security Engineer in training</text>
+  <text x="60" y="205" font-family="Consolas, monospace" font-size="18" fill="#c9d1d9">AWS &bull; Python &bull; Linux &bull; Cybersecurity &bull; CTF</text>
+  <text x="60" y="245" font-family="Consolas, monospace" font-size="16" fill="#8b949e">M.Tech CSE @ VIT-AP University &bull; Batch '29</text>
+  <text x="60" y="280" font-family="Consolas, monospace" font-size="14" fill="#8b949e">Building tools that secure the cloud &bull; Security Engineering &bull; SOC/Blue Team interest</text>
+</svg>
