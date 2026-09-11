@@ -23,6 +23,8 @@ A **Cloud Security Posture Management (CSPM)** tool that discovers AWS resources
 
 > *Demonstrating practical cloud-security engineering beyond coursework.*
 
+![AWS CSPM Tool Dashboard](assets/cspm-dashboard.png)
+
 **[Explore the project →](https://github.com/adwaidhdinesh/aws-cspm-tool)**
 
 ---
@@ -31,18 +33,22 @@ A **Cloud Security Posture Management (CSPM)** tool that discovers AWS resources
 
 ### [☁️ AWS CSPM Tool](https://github.com/adwaidhdinesh/aws-cspm-tool)
 Cloud security posture management - AWS resource discovery, CIS benchmark checks, compliance mapping, scoring, drift detection.
+Built a tool that scans a company's AWS cloud setup and flags security misconfigurations before attackers can exploit them.
 *`Python` · `boto3` · `Streamlit` · `SQLite` · `pytest`*
 
 ### [🤖 CipherSaga](https://github.com/adwaidhdinesh/CipherSaga)
 Personal Telegram assistant — reminders, study schedules, and daily tasks with a FastAPI REST interface.
+A Telegram bot that keeps track of reminders and study schedules, so deadlines and daily tasks don't get forgotten.
 *`Python` · `python-telegram-bot` · `FastAPI` · `SQLite`*
 
 ### [🤖 Auto-Filler](https://github.com/adwaidhdinesh/Auto-Filler)
 AI-powered Chrome extension that scans Google Forms, understands question types, and generates relevant answers.
+A browser extension that reads Google Forms and fills in your answers automatically, saving time on repetitive sign-ups and surveys.
 *`TypeScript` · `Chrome Extension` · `AI`*
 
 ### [🐚 Bandit-Walkthrough](https://github.com/adwaidhdinesh/Bandit-Walkthrough)
 Solutions & learning notes for OverTheWire Bandit - Linux, permissions, networking, and security fundamentals.
+Hands-on practice solving real Linux security challenges, level by level.
 *`Linux` · `Security` · `CTF`*
 
 ---
@@ -70,10 +76,9 @@ Solutions & learning notes for OverTheWire Bandit - Linux, permissions, networki
 ---
 
 ## 🌱 Currently Learning
-- **AWS** (IAM, network security, monitoring, encryption, secrets management)
-- **Detection & Monitoring / Security Automation**
-- **Offensive Security** (to understand both sides)
-- **Cloud fundamentals** → progressively toward Cloud Security
+- **AWS security** — IAM, monitoring, encryption, secrets management
+- **Detection & Security Automation**
+- **Offensive Security fundamentals** (to complement defense)
 
 ---
 
